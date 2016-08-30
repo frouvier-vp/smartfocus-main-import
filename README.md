@@ -1,7 +1,7 @@
 # Task main import - CSV Smartfocus
 
 > LANGUAGE: Scala [http://www.scala-lang.org](http://www.scala-lang.org)  
-> COMPILER: SBT [http://www.scala-sbt.org](http://www.scala-sbt.org)
+> COMPILER: SBT [http://www.scala-sbt.org](http://www.scala-sbt.org)  
 > LIBRARY:  Spark [http://spark.apache.org](http://spark.apache.org)
 
 Use to import Smartfocus CSV files into HDFS with partitioning.
